@@ -1,0 +1,3 @@
+Protocol: PROTOCOL.md
+SHA-256: 83f50f7744fd5f980cfc66b41d3d2c0bd41c7af8a7245dd1a855b30e3636037c
+Status: frozen before v0.2 benchmark generation
