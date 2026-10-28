@@ -2,6 +2,10 @@
 
 A reproducible **synthetic toy model** shaped like a simple sensory–spinal–central–motor network. It is not a biological nervous system, a medical device, or evidence about human physiology.
 
+## Game video
+
+Watch the [Nervous System Game video](https://muse.ai/s/nervous-system-game-bxd6gxnxdkpxq8t/3VawMNhoeXlu7gKsNULpeuroNqoHMWG0SIvXwcbq_Jc). The game is related to this synthetic toy model; it is not a biological nervous system or neuroscience evidence.
+
 ## What the results show
 
 The latest v0.2.0 source package adds an imposed frequency-response layer and **synthetic parameter injection** to the earlier toy. It uses generated toy vectors and constructed parameter variants only: **no human data were used, and no human experiments were conducted**. In its fixed-seed demo, noisy-pattern acceptance rises modestly from **19/40 to 21/40**; random fields remain **0/40** accepted. The reported mean net score is **−0.276**, so the sampling did not pay for itself under the package’s stated cost. These are seeded software results, not human measurements or generalization evidence.
